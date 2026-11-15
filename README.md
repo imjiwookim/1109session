@@ -62,12 +62,7 @@ npm run dev      # 프론트엔드 (새 터미널에서)
 React Query Devtools(화면 하단 아이콘)에서 `["todos", { page: 2 }]` 같은 쿼리가 페이지마다 따로 생기고, 1페이지를 볼 때 2페이지 쿼리가 미리 만들어지는 것을 확인할 수 있습니다.
 
 ## 4. 동작 화면
-
-> 아래 이미지는 직접 캡처해서 `screenshots/` 폴더에 넣고 경로를 맞춰 주세요.
-
-| 1페이지 | 2페이지로 이동 | Devtools (프리페치된 쿼리) |
-|---|---|---|
-| <img width="762" height="957" alt="Screenshot 2026-11-15 154017" src="https://github.com/user-attachments/assets/e3cf8b88-9aed-4a28-89cd-68e09c3ef7d4" />
- | <img width="758" height="959" alt="Screenshot 2026-11-15 154317" src="https://github.com/user-attachments/assets/b2e98579-e31a-4362-936e-52a73d16bfba" />
- | <img width="754" height="946" alt="Screenshot 2026-11-15 161040" src="https://github.com/user-attachments/assets/8cef5b42-cfd5-4766-af8a-4e85aa2bf197" />
- |
+  
+  <img width="762" height="957" alt="Screenshot 2026-11-15 154017" src="https://github.com/user-attachments/assets/e3cf8b88-9aed-4a28-89cd-68e09c3ef7d4" />
+  <img width="758" height="959" alt="Screenshot 2026-11-15 154317" src="https://github.com/user-attachments/assets/b2e98579-e31a-4362-936e-52a73d16bfba" />
+  <img width="754" height="946" alt="Screenshot 2026-11-15 161040" src="https://github.com/user-attachments/assets/8cef5b42-cfd5-4766-af8a-4e85aa2bf197" />
