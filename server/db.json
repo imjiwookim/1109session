@@ -1,0 +1,39 @@
+{
+    "todos": [
+      {
+        "id": "1",
+        "title": "Exercise",
+        "completed": false
+      },
+      {
+        "id": "2",
+        "title": "Review Class Notes",
+        "completed": false
+      },
+      {
+        "id": "3",
+        "title": "Prepare for Session",
+        "completed": true
+      },
+      {
+        "id": "4",
+        "title": "Read TanStack Query Docs",
+        "completed": false
+      },
+      {
+        "id": "5",
+        "title": "Practice Pagination",
+        "completed": false
+      },
+      {
+        "id": "6",
+        "title": "Try Prefetching",
+        "completed": false
+      },
+      {
+        "id": "7",
+        "title": "Write README",
+        "completed": false
+      }
+    ]
+  }

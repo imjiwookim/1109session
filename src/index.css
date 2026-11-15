@@ -209,3 +209,27 @@ h1 {
 .todo-header {
   margin-bottom: 28px;
 }
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.pagination button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  color: #fff;
+  background: #6d5cdb;
+  cursor: pointer;
+}
+
+.pagination button:disabled {
+  background: #c9c4ea;
+}
+
+.pagination span {
+  font-weight: 700;
+}
