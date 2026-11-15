@@ -67,4 +67,7 @@ React Query Devtools(화면 하단 아이콘)에서 `["todos", { page: 2 }]` 같
 
 | 1페이지 | 2페이지로 이동 | Devtools (프리페치된 쿼리) |
 |---|---|---|
-| ![1페이지](./screenshots/page1.png) | ![2페이지](./screenshots/page2.png) | ![Devtools](./screenshots/devtools.png) |
+| <img width="762" height="957" alt="Screenshot 2026-11-15 154017" src="https://github.com/user-attachments/assets/e3cf8b88-9aed-4a28-89cd-68e09c3ef7d4" />
+ | <img width="758" height="959" alt="Screenshot 2026-11-15 154317" src="https://github.com/user-attachments/assets/b2e98579-e31a-4362-936e-52a73d16bfba" />
+ | <img width="754" height="946" alt="Screenshot 2026-11-15 161040" src="https://github.com/user-attachments/assets/8cef5b42-cfd5-4766-af8a-4e85aa2bf197" />
+ |
